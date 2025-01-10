@@ -1,4 +1,5 @@
 # React + TypeScript + Vite
+## Para ejecutar el proyecto se usa `npm run dev`, además se puede acceder desde https://rotacion-matriz.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
